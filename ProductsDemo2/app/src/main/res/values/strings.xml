@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductsDemo2</string>
+    <string name="Price">Price</string>
+    <string name="Desc">Desc</string>
+</resources>
